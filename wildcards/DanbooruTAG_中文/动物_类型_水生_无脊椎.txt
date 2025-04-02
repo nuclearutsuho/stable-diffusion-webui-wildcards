@@ -1,0 +1,12 @@
+Abalone
+Clam
+Coral
+Cuttlefish
+Octopus
+Oyster
+Sea_anemone
+Sea_cucumber
+Sea_slug
+Sea_urchin
+Squid
+Starfish

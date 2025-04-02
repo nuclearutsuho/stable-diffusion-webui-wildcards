@@ -1,0 +1,5 @@
+Dark_skin
+Pale_skin
+Tan
+Tanlines
+Sun_tattoo

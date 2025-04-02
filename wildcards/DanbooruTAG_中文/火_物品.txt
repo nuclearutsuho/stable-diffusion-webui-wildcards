@@ -1,0 +1,4 @@
+fire_extinguisher
+fire_hydrant
+fireplace
+flamethrower

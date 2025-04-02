@@ -1,0 +1,9 @@
+black_cat
+brown_cat
+calico
+grey_cat
+orange_cat
+pink_cat
+purple_cat
+tortoiseshell_cat
+white_cat

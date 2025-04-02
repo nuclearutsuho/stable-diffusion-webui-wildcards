@@ -1,0 +1,13 @@
+bagpipes
+bassoon
+clarinet
+crumhorn
+electric_wind_instrument
+flute
+bass_flute
+fife
+harmonica
+oboe
+ocarina
+recorder
+saxophone

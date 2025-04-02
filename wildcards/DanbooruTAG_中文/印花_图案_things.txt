@@ -1,0 +1,4 @@
+patterned_hair
+patterned_clothing
+patterned
+patterned_background

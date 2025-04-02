@@ -1,0 +1,12 @@
+constricted_pupils
+cross-eyed
+dot_mouth
+dot_nose
+mouth_drool
+no_nose
+no_mouth
+rectangular_mouth
+sideways_mouth
+split_mouth
+wavy_mouth
+wide-eyed

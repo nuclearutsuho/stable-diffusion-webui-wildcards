@@ -1,0 +1,6 @@
+Tail_bell
+Tail_bow
+Tail_ornament
+Tail_piercing
+Tail_ribbon
+Tail_ring

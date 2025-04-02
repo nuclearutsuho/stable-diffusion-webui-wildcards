@@ -1,0 +1,10 @@
+chess
+game_of_life
+go
+kai-awase
+mahjong
+monopoly
+reversi
+settlers_of_catan
+shogi
+tic-tac-toe

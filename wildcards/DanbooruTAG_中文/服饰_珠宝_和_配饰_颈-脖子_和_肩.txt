@@ -1,0 +1,17 @@
+ascot
+bowtie
+choker
+collar
+epaulettes
+feather_boa
+lapels
+lapel_pin
+neck_ruff
+neckerchief
+necklace
+necktie
+tie_clip
+neck_ribbon
+scarf
+shawl
+stole

@@ -1,0 +1,10 @@
+Android
+Robot_joints
+Mechanical_parts
+Robot_ears
+Cyborg
+Mecha
+Mechanical_dragon
+Replicant
+Robot
+Robot_animal

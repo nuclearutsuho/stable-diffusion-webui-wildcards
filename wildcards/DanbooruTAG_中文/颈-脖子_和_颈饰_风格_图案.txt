@@ -1,0 +1,3 @@
+checkered_neckwear
+plaid_neckwear
+striped_neckwear

@@ -1,0 +1,8 @@
+multicolored_hair
+colored_inner_hair
+gradient_hair
+rainbow_hair
+split-color_hair
+streaked_hair
+two-tone_hair
+colored_tips

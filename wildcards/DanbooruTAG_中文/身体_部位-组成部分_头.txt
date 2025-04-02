@@ -1,0 +1,11 @@
+ear_focus
+face
+forehead
+forehead_mark
+beard
+mustache
+head_wings
+lips
+nape
+tongue
+long_tongue

@@ -1,0 +1,7 @@
+crossword_puzzle
+jenga
+metal_puzzle
+puzzle
+jigsaw_puzzle
+sliding_puzzle
+rubik's_cube

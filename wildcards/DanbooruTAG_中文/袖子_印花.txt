@@ -1,0 +1,5 @@
+print_sleeves
+checkered_sleeves
+plaid_sleeves
+polka_dot_sleeves
+striped_sleeves

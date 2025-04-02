@@ -1,0 +1,9 @@
+argyle_dress
+checkered_dress
+flag_dress
+plaid_dress
+polka_dot_dress
+print_dress
+striped_dress
+vertical-striped_dress
+pinstripe_dress

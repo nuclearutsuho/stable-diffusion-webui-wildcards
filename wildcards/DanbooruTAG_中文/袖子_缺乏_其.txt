@@ -1,0 +1,9 @@
+sleeveless
+sleeveless_shirt
+sleeveless_dress
+sleeveless_duster
+sleeveless_hoodie
+sleeveless_jacket
+sleeveless_kimono
+sleeveless_shirt
+sleeveless_turtleneck

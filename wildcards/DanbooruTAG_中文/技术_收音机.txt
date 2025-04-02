@@ -1,0 +1,8 @@
+Radio
+Stereo
+Radio_tower
+Satellite_dish
+Radio_booth
+Radio_telescope
+Field_radio
+Radio_antenna

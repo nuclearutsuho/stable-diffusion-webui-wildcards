@@ -1,0 +1,12 @@
+dress_flower
+flower_trim
+frills
+fur_trim
+gathers
+gold_trim
+lace_trim
+ribbon_trim
+see-through
+silver_trim
+taut_shirt
+torn_clothes

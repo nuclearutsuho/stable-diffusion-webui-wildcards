@@ -1,0 +1,10 @@
+amplifier
+tube_amplifier
+megaphone
+microphone
+microphone_stand
+pop_filter
+studio_microphone
+vintage_microphone
+boom_microphone
+mixing_console

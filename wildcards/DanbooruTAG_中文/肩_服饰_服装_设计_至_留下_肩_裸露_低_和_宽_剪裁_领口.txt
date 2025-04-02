@@ -1,0 +1,8 @@
+Off-shoulder_shirt
+Off-shoulder_dress
+Off-shoulder_sweater
+Off-shoulder_jacket
+Off-shoulder_coat
+Off-shoulder_bikini
+Off-shoulder_one-piece_swimsuit
+Off-shoulder_leotard

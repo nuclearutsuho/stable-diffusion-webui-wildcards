@@ -1,0 +1,13 @@
+aqua_dress
+black_dress
+blue_dress
+brown_dress
+green_dress
+grey_dress
+orange_dress
+pink_dress
+purple_dress
+red_dress
+sepia_dress
+white_dress
+yellow_dress

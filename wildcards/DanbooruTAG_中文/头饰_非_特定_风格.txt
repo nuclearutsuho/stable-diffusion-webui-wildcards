@@ -1,0 +1,9 @@
+checkered_headwear
+frilled_hat
+military_hat
+mini_hat
+multicolored_headwear
+police_hat
+print_headwear
+school_hat
+straw_hat

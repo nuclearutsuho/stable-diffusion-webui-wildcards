@@ -1,0 +1,3 @@
+Towel_around_neck
+Weapon_over_shoulder
+Sword_over_shoulder

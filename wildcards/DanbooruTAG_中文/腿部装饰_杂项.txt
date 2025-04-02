@@ -1,0 +1,13 @@
+alternate_legwear
+uneven_legwear
+dirty_legwear
+in_legwear
+layered_legwear
+legwear_past_ankles
+legwear_removed
+legwear_under_shorts
+mismatched_legwear
+no_legwear
+taut_legwear
+torn_legwear
+wet_legwear

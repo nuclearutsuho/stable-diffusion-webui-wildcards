@@ -1,0 +1,2 @@
+solo_focus
+text_focus

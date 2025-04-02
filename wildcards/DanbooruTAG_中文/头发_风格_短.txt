@@ -1,0 +1,8 @@
+bowl_cut
+buzz_cut
+chonmage
+crew_cut
+flattop
+okappa
+pixie_cut
+undercut

@@ -1,0 +1,15 @@
+balaclava
+crown
+hair_bow
+hair_ribbon
+hairband
+headband
+forehead_protector
+sweatband
+hachimaki
+mongkhon
+headdress
+maid_headdress
+tiara
+veil
+honggaitou

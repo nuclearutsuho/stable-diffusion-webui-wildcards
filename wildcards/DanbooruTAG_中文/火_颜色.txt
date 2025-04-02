@@ -1,0 +1,6 @@
+black_fire
+blue_fire
+green_fire
+pink_fire
+purple_fire
+white_fire

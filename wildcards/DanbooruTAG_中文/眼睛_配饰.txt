@@ -1,0 +1,16 @@
+covering_eyes
+hair_over_eyes
+hair_over_one_eye
+bandage_over_one_eye
+blindfold
+hat_over_eyes
+eyepatch
+eyelashes
+colored_eyelashes
+fake_eyelashes
+eyes_visible_through_hair
+glasses
+makeup
+eyeliner
+eyeshadow
+mascara

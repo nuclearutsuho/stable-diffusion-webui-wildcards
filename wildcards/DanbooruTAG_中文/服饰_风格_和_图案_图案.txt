@@ -1,0 +1,10 @@
+argyle
+camouflage
+checkered
+floral_print
+pinstripe_pattern
+plaid
+polka_dot
+striped
+multicolored_stripes
+double_vertical_stripe

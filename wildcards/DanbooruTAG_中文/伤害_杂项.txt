@@ -1,0 +1,12 @@
+Doctor
+Nurse
+Hospital
+first_aid
+intravenous_drip
+surgery
+syringe
+amputee
+pill
+drugs
+guro
+organs

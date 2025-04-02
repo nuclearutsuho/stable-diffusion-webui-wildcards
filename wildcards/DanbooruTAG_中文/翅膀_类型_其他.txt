@@ -1,0 +1,5 @@
+Hair_wings
+Mechanical_wings
+metal_wings
+Plant_wings
+feathered_wings

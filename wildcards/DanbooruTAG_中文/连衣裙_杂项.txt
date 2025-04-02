@@ -1,0 +1,11 @@
+crinoline
+dress_flip
+dress_grab
+dress_lift
+dress_pull
+dress_tug
+open_dress
+skirt_basket
+tied_dress
+torn_dress
+wet_dress

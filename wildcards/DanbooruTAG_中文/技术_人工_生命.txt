@@ -1,0 +1,10 @@
+Cyber_elves
+Mecha-drago
+Transformers
+Autobot
+Aerialbot
+Protectobot
+Decepticon
+Combaticon
+Constructicon
+Stunticon

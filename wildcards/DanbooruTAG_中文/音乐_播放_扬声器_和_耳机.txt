@@ -1,0 +1,12 @@
+earphones
+earbuds
+earpiece
+ear_protection
+earmuffs
+headphones
+behind-the-head_headphones
+bunny_headphones
+cat_ear_headphones
+headphones_for_animal_ears
+headset
+speaker

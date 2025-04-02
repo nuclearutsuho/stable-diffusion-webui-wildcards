@@ -1,0 +1,6 @@
+jammers
+legskin
+swim_briefs
+swim_trunks
+loincloth
+fundoshi

@@ -1,0 +1,12 @@
+clothing_aside
+clothes_down
+open_clothes
+revealing_clothes
+see-through
+unbuttoned
+undressing
+unfastened
+untied
+untying
+unzipped
+unzipping

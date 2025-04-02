@@ -1,0 +1,12 @@
+baby_carry
+carrying
+carried_breast_rest
+carrying_over_shoulder
+carrying_under_arm
+child_carry
+fireman's_carry
+piggyback
+princess_carry
+shoulder_carry
+sitting_on_shoulder
+standing_on_shoulder

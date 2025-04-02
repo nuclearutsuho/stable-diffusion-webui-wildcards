@@ -1,0 +1,10 @@
+black_panther
+cheetah
+cougar
+jaguar
+leopard
+leopard_cat
+chinese_leopard_cat
+lion
+serval
+tiger

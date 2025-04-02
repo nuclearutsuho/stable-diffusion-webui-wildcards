@@ -1,0 +1,17 @@
+audio_visualizer
+horn
+vuvuzela
+instrument
+instrument_case
+guitar_case
+playing_instrument
+music
+notes
+musical_note
+spoken_musical_note
+treble_clef
+bass_clef
+sheet_music
+music_stand
+singing
+karaoke

@@ -1,0 +1,4 @@
+concert
+radio_booth
+recording_studio
+stage

@@ -1,0 +1,6 @@
+arched_back
+bent_over
+leaning_back
+leaning_forward
+slouching
+twisted_torso

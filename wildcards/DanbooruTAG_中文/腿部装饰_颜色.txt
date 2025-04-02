@@ -1,0 +1,15 @@
+aqua_legwear
+beige_legwear
+black_legwear
+blue_legwear
+brown_legwear
+green_legwear
+grey_legwear
+lavender_legwear
+orange_legwear
+pink_legwear
+purple_legwear
+red_legwear
+tan_legwear
+white_legwear
+yellow_legwear

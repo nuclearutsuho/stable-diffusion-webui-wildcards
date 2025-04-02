@@ -1,0 +1,5 @@
+gradient_background
+multicolored_background
+rainbow_background
+heaven_condition
+two-tone_background

@@ -1,0 +1,16 @@
+architecture
+cityscape
+landscape
+space
+asteroid
+moon
+planet
+space_station
+vehicle_interior
+airplane_interior
+bus_interior
+car_interior
+cockpit
+spacecraft_interior
+tank_interior
+train_interior

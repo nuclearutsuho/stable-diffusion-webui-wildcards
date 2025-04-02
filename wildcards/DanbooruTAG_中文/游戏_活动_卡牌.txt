@@ -1,0 +1,6 @@
+card_game
+hanafuda
+playing_card
+solitaire
+tarot
+uno

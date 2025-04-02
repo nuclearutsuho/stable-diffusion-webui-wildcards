@@ -1,0 +1,10 @@
+Black_skin
+Blue_skin
+Green_skin
+Grey_skin
+Orange_skin
+Pink_skin
+Purple_skin
+Red_skin
+White_skin
+Yellow_skin

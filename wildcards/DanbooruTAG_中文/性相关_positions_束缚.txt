@@ -1,0 +1,17 @@
+box_tie
+bound_arms
+bound_feet
+bound_legs
+bound_calves
+bound_knees
+bound_thighs
+bound_torso
+bound_wrists
+frogtie
+hogtie
+separated_arms
+separated_legs
+separated_wrists
+shrimp_tie
+strappado
+suspension

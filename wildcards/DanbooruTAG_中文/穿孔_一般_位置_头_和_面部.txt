@@ -1,0 +1,11 @@
+Ear_piercing
+Industrial_piercing
+Eyebrow_piercing
+Anti-eyebrow_piercing
+Eyelid_piercing
+Lip_piercing
+Labret_piercing
+Neck_Piercing
+Nose_piercing
+Bridge_piercing
+Tongue_piercing

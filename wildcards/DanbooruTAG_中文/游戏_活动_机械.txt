@@ -1,0 +1,5 @@
+crane_game
+pachinko
+pop-up_pirate
+video_game
+whac-a-mole

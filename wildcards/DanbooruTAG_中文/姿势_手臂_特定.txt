@@ -1,0 +1,10 @@
+airplane_arms
+crossed_arms
+flexing
+praise_the_sun
+reaching
+shrugging
+t-pose
+a-pose
+v_arms
+w_arms

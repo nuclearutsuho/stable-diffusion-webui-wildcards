@@ -1,0 +1,14 @@
+animal_hat
+hat_with_ears
+deviruchi_hat
+bear_hat
+bunny_hat
+cat_hat
+dog_hat
+fox_hat
+pelt
+penguin_hat
+wolf_hat
+eggshell_hat
+pumpkin_hat
+Helmets

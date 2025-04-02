@@ -1,0 +1,12 @@
+hand_on_ear
+adjusting_eyewear
+hand_on_another's_head
+hand_on_own_head
+hand_on_own_forehead
+hand_on_another's_face
+hand_on_own_face
+hands_on_another's_face
+hands_on_own_face
+hand_on_another's_cheek
+hand_on_own_cheek
+hand_on_headwear

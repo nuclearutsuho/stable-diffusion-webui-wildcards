@@ -1,0 +1,9 @@
+cityscape
+everyone
+absolutely_everyone
+landscape
+nature
+no_humans
+off-topic
+scenery
+still_life

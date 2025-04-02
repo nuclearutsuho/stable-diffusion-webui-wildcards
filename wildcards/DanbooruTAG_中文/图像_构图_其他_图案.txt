@@ -1,0 +1,17 @@
+animal_print
+cow_print
+leopard_print
+tiger_print
+zebra_print
+shark_print
+argyle
+checkered
+fleur_de_lis
+floral_print
+gingham
+houndstooth
+meandros
+paisley
+plaid
+polka_dot
+striped

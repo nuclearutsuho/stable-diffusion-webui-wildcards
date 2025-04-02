@@ -1,0 +1,5 @@
+guro
+amputee
+double_amputee
+quadruple_amputee
+triple_amputee

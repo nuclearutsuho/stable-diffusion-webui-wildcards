@@ -1,0 +1,14 @@
+Boar
+Echidna
+Fox
+Red_fox
+Goat
+Hedgehog
+Monkey
+Platypus
+Pig
+Piglet
+Rabbit
+Angora_rabbit
+Sheep
+Lamb

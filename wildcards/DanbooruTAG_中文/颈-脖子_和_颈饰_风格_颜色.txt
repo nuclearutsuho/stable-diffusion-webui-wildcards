@@ -1,0 +1,12 @@
+aqua_neckwear
+black_neckwear
+blue_neckwear
+brown_neckwear
+green_neckwear
+grey_neckwear
+orange_neckwear
+pink_neckwear
+purple_neckwear
+red_neckwear
+white_neckwear
+yellow_neckwear

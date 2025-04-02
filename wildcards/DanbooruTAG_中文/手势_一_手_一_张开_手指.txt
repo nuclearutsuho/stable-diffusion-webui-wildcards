@@ -1,0 +1,17 @@
+akanbe
+slit_throat
+index_finger_raised
+middle_finger
+pinky_out
+beckoning
+pointing
+pointing_at_self
+pointing_at_viewer
+pointing_down
+pointing_forward
+pointing_up
+kamina_pose
+saturday_night_fever
+shushing
+thumbs_down
+thumbs_up

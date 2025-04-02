@@ -1,0 +1,5 @@
+Sleeveless_shirt
+Sleeveless_dress
+Sleeveless_sweater
+Sleeveless_jacket
+Sleeveless_coat
